@@ -76,12 +76,12 @@ Some of the things we are to work with:
 
 
 ## Background
-During 2021 and after heling many student from diffrent eductaions we come to se that we miss some knowledge in the studnet from [yrkesutbildning](yrkesutbildning) students.
+During 2021 and after heling many student from diffrent eductaions we come to se that we miss some knowledge in the studnet from [yrkesutbildning](yrkesutbildning.md) students.
 
 One of the key thigs we missed was the own engine. To stand infron of a problem not knowing how to solve it.
 But knosing how to get the wisdom to.
 
-We that worked with this course are [team](team) and during 2022 we toghter with the Swedish school [tuc](tuc) hope run the eductaions.
+We that worked with this course are [team](team.md) and during 2022 we toghter with the Swedish school [tuc](tuc.md) hope run the eductaions.
 
 ## Call for HELP !
 
