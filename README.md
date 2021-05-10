@@ -106,6 +106,11 @@ ${FORM LINK}
 If you want to suppurt this course add a merge request with you logo down here.
 Then we will send you info of the progress of the course and you will also get info of the progress of the students.
 
+
+![https://hacking.robots.beer](logo/hrb.png "Hacking Robots and Beer")
+
+
+
 ## Qutes
 
 
