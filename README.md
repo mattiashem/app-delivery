@@ -1,19 +1,19 @@
 # App Delivery (something)
-To build an deliver software apps today you need alot of knowledge and knowledge of the app in the full lifeteime of the apps. How that app is build, How tha apps is then deployed and how the app behaves when it run.
+To build an deliver software apps today you need alot of knowledge and knowledge of the app in the full lifeteime of the apps. How that app is build, How that apps is then deployed and how the app behaves when it run.
 
-During the years we have learn alot how we best build and run apps in the best way. This include new tools to easy build or app. But also diffrentw ay to work like GitOPS and Devops with more.
+During the years we have learn alot how we best build and run apps. This include new tools to easy build ore run our apps. But also diffrent way to work like GitOPS and Devops.
 
 
-This course aims at teaching students with the basic of the App delivery (Soemthing)
+This course aims at teaching students with the basic of the App delivery (Something)
 
 
 
 ## Learning 
 Today we learn by solving problems. We se a new problem that we need to soleve. We now read guide, Watch videos and test out new tools untill this problems is solved.
-This education teach the student how to learn in this way to solve problems that will come.
+This education teach the student how to learn in this way to solve problems.
 
 In the field knowledge changes so fast. So to make shoure the students are always getting the latest info we shift the classrom.
-The students are to take diffrent courses done by professinals online ore onsite. And then we give the school the assimgment to helt the students pass this diffrent courses.
+The students are to take diffrent courses done by professinals online ore onsite. And then we give the school the assimgment to help the students pass this diffrent courses.
 
 ## The Course
 

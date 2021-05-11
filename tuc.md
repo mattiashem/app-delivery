@@ -1,5 +1,6 @@
 # TUC
-TUC is swedend largets eductaions schools for Yrkesutbildningar.
+
+TUC is Swedend largets eductaions schools for Yrkesutbildningar.
 
 
 [Webb](https://www.tucsweden.se/)
