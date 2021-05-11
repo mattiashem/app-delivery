@@ -97,9 +97,12 @@ Drop us a email and lets se where it fits best
 
 
 ### Input from U
-To prove that this course is soemthing that we that wor in the applications field need. Please fill out this form with yoyur input
+To prove that this course is soemthing that we that wor in the applications field need. Please fill out this form with your input.
 
-${FORM LINK}
+The agnce that overses the course will when reviwev the course send you a aemail to verfy tat you are correct.
+that is the only attacment after filling in the form.
+
+[FORM](https://forms.gle/UaMNJYfVwHMbdxdE9)
 
 
 ## Supporting 
