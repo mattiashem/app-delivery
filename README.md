@@ -43,7 +43,7 @@ Say you as a student really get into coding. Then you will not only have a solid
 ## Courses from professional
 To keep the level of the courses we will get courses from online services. We we then combine this courses into a learning path and that path will be the path for this course.
 Example of online resourse will be
-- [DevSecOps Academy] (https://www.devsecops-academy.com/)
+- [DevSecOps Academy](https://www.devsecops-academy.com/)
 - [Cloud Academy](https://cloudacademy.com/)
 
 ### Certification
