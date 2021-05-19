@@ -34,6 +34,29 @@ All companies today work by ticket system. You get assigne a ticket with a probl
 ### Cloud Service
 Cloud service is something everyone in  app delivery need to know. Most of the steps in the cpurse will be run against clous service and the stdents will have good knowledge in to work with clous providers after to course.
 
+## We all run in diffrent speed
+We all run in diffrent speed and here we want to setup the courses to match the speed of the students. The course will have a solid and easy beat that all students are able to keep up.
+But if you as students quckly passes a course we will have more courses for you to att so that you can deep dive on diffrent topics.
+Say you as a student really get into coding. Then you will not only have a solid App Delivery course but you my also have passed diffrent coding courses as well.
+
+
+## Courses from professional
+To keep the level of the courses we will get courses from online services. We we then combine this courses into a learning path and that path will be the path for this course.
+Example of online resourse will be
+- [DevSecOps Academy] (https://www.devsecops-academy.com/)
+- [Cloud Academy](https://cloudacademy.com/)
+
+### Certification
+Certification are a important evidence that you proven to have a certian skill.
+During this course the studentd will be preperd to take cerification in
+
+- Docker
+- Kubernetes
+- Git
+- AWS,GCP,Azure 
+- Vault
+
+And more
 
 ## The stages
 To make in more clear and easy. The course is devided into 3 stages Build , Deploy and Run.
