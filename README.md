@@ -77,8 +77,7 @@ In the Run stage, students work on our applications to make them run and scale.
 
 
 ### Build
-Its all starting with the code. Here we work in setting the foundation correcnt and then start making our app.
-We work with the following tolls 
+It’s all starts with a code. Its here we lay a good foundations for our app and it also here it all begins. Setting up your local environment correct will later save you time and a lot of work.
 
 Some of the things we are to work with:
 - Git
@@ -116,18 +115,23 @@ Some of the tools students will utilise:
 
 
 ## Background
-During 2021 and after heling many student from diffrent eductaions we come to se that we miss some knowledge in the studnet from [yrkesutbildning](yrkesutbildning.md) students.
+During 2021 and after tuturing many students from different educations (linux,devops) I come to see that we miss some knowledge in the students that come from [yrkesutbildning](yrkesutbildning.md) courses.
 
-One of the key thigs we missed was the own engine. To stand infron of a problem not knowing how to solve it.
-But knosing how to get the wisdom to.
+One key part that the students from this course where missing was to have there own engine. To get a problem and have the knowledge how to solve the problem and to also learn hos to solve problems.
 
-We that worked with this course are [team](team.md) and during 2022 we toghter with the Swedish school [tuc](tuc.md) hope run the eductaions.
+This education is what we think is needed to traning students to better start working in the app delivery space.
+
+We that worked with this course are [team](team.md) and during 2022 we toghterwith the Swedish school [tuc](tuc.md) hope to run this educations.
+
 
 ## Call for HELP !
 
 To make this course we need your help.
 
-### The plan
+## The plan
+This is our education plan right now but we are well aware that there may be better eductaions plans.
+
+### Students
 Students and app developers; we want to hear from you. We believe we have developed a course which would lead the way in creating world-class beating apps. Developers will not only have the tools to create apps that work, but have the tools to critically evaluate their usage in the real-world.
 
 
