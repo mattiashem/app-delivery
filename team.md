@@ -8,5 +8,5 @@ Today are work building a infra and cluster setup that are loved by the davs are
 
 
 [Blog](https://lifeandshell.com)
-[Linkedid](www.linkedin.com/in/matte-hemmingsson
+[Linkedin](https://www.linkedin.com/in/matte-hemmingsson
 )
