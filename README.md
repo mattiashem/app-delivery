@@ -1,27 +1,31 @@
 # App Delivery (something)
-To build an deliver software apps today you need alot of knowledge and knowledge of the app in the full lifeteime of the apps. How that app is build, How that apps is then deployed and how the app behaves when it run.
+To build and deliver widely used software apps today, it is expected that the developer possesses a fundamental understanding of app development which will carry for the lifetime of its deployment. The developer will be able to carry out and clearly explain the app’s build, deployment and behaviour. 
 
-During the years we have learn alot how we best build and run apps. This include new tools to easy build ore run our apps. But also diffrent way to work like GitOPS and Devops.
+During the years we have learnt a lot how we best build and run apps. This include new tools to easily build and run our apps. But we also explore and implement different way to work, utilising tools and methodology such as GitOPS and Devops.
 
-
-This course aims at teaching students with the basic of the App delivery (Something)
+This course take the basics of app development but unlike others, incorporates our ethos of always looking forward to encourage students to look beyond the ‘basic’ tagline.
 
 
 
 ## Learning 
-Today we learn by solving problems. We se a new problem that we need to soleve. We now read guide, Watch videos and test out new tools untill this problems is solved.
-This education teach the student how to learn in this way to solve problems.
+We learn by solving problems. We actively seek out obstacles so we can learn, develop, test and grow. 
 
-In the field knowledge changes so fast. So to make shoure the students are always getting the latest info we shift the classrom.
-The students are to take diffrent courses done by professinals online ore onsite. And then we give the school the assimgment to help the students pass this diffrent courses.
+App Delivery (something) encourages and teaches students how to critically evaluate complications, and to think outside the box in order to overcome them.  
+
+App development is an ever changing environment, so why is app development education static? App Delivery (something) adapts to this ever changing environment. This gives students the confidence to know that their new knowledge base is not out-of-date by the time they are ready to use it. 
+
+App Delivery (something) is delivered by subject matter experts. Those who use the tools every day and are able to give real-time expertise that can be used immediately. Delivered remotely and on-site, students’ knowledge will be assessed to ensure high standards throughout. 
 
 ## The Course
 
 
 ### The App 
-To get the full understaing of what problems we can get when working in a applications chain every student will get there own app.
-They can build this app by them self if they have the knowledge ore be given one.
-The app is then taken throw the diffrent stages during the course. 
+We learn through actions. To get a full understating of what problems occur when working in an applications chain, every student will get their own app.
+
+The student builds this app themselves when they are ready, or if preferred, they will be given one pre-built. The app is then taken through the different stages of app development during the course.
+
+By giving the student ownership of their own app, they will be able to see first-hand, the journey of app development. We all have our own way of doing things, we understand every person is unique and their app should reflect this. 
+
 
 ### Docs
 To work with the app documations is a important part. It can be documations in code but also how the app work and Runbooks.
@@ -29,7 +33,10 @@ The student are to during the course write docs abount the app and also store al
 This will later be a good ref for allying for work.
 
 ### Tickets 
-All companies today work by ticket system. You get assigne a ticket with a problem that you are to solve. We want the eductaions to be as close to work as possible and there for all students are to work by ticket systems.
+All companies today work with ticketing systems. Some have external companies that flag and work with the ticket, others have internal systems. It is thus fundamental that students are able to work comfortably in a ticketing system.
+
+The student will be assigned a ticket with a problem, the student is then tasked to solve it. This real-world experience will encourage students when building apps, to understand all levels of the app’s implementation and further development needs. 
+
 
 ### Cloud Service
 Cloud service is something everyone in  app delivery need to know. Most of the steps in the cpurse will be run against clous service and the stdents will have good knowledge in to work with clous providers after to course.
@@ -59,10 +66,15 @@ During this course the studentd will be preperd to take cerification in
 
 And more
 
-## The stages
-To make in more clear and easy. The course is devided into 3 stages Build , Deploy and Run.
-In the build stage we learn how to setup a local dveelpoing enviroment and the basics in programming. In the stege deploy we learn how to deploy and test our applications.
-In the stage run we work on our applications to make in run and scale.
+## The Stages
+App Delivery (something) is broken down in three stages; Build, Deploy and Run.
+
+In the Build stage, students will learn how to setup a local developing environment and the basics in app programming. 
+
+In the Deploy stage, students will learn how to deploy and test their applications.
+
+In the Run stage, students work on our applications to make them run and scale.
+
 
 ### Build
 Its all starting with the code. Here we work in setting the foundation correcnt and then start making our app.
@@ -77,24 +89,28 @@ Some of the things we are to work with:
 - Cloud service (Basic setup)
 
 ### Deploy (CI/CD)
-Testing you app correct is a fundation in building a CI/CD pipline. And in this step we are to setup diffrent pipline and start testing our app.
+Testing your app correctly underpins the structure of a CI/CD (Continuous Integration/Continuous Delivery) pipeline. In this step students are to setup different pipelines and start testing their apps.
 
-Some of the things we are to work with:
-- Buildservers (jenkins, tekton and more)
-- Autoamtes test 
-- Vurnibulity scanning
+Some of the tools students will utilise:
+- Build servers (Jenkins, Tekton, etc.)
+- Automates test 
+- Vulnerability scanning
 - Kubernetes and helm 
 
-### Run
-To deploy a application is easy to run it dfor a long time is hard. In this step the student will learn how to setup envirments that scale and are secure. And learn how to monitor and trubbelshot there applictaions
 
-Some of the things we are to work with:
-- Terraform / Pullumi
+### Run
+To design and deploy an app is the fun part, to run it to scale over a prolonged time scale is where an app developer shows their worth. How often have you deleted an app because it runs badly or never updates? 
+
+In this step the student will learn how to setup environments that can be scaled, and are secure to both user and developer. In App Delivery (something), students will learn how to monitor and troubleshot their app.
+
+Some of the tools students will utilise:
+- Terraform/Pullumi
 - Imutabel Infrastructure
-- Observity (Logs, Metrics,Tracing)
+- Observity (Logs, Metrics, Tracing)
 - Load test
 - Alerts
 - Runbooks
+
 
 
 
@@ -112,27 +128,26 @@ We that worked with this course are [team](team.md) and during 2022 we toghter w
 To make this course we need your help.
 
 ### The plan
-This is our plan right now but we are well aware that there are better plans. Drop request how we can make this course better.
+Students and app developers; we want to hear from you. We believe we have developed a course which would lead the way in creating world-class beating apps. Developers will not only have the tools to create apps that work, but have the tools to critically evaluate their usage in the real-world.
 
 
 ### Educators 
-Do you have something that you want to teach. This course is based on proffersinal teaching students. 
-Drop us a email and lets se where it fits best
+Do you have something that you want to teach. This course relies on subject-matter experts. Those who work in the field, regardless of level or experience; we want to hear from you.
+All teachers will be paid and compose a online course that then the students will take.
 
 
 ### Input from U
-To prove that this course is soemthing that we that wor in the applications field need. Please fill out this form with your input.
-
-The agnce that overses the course will when reviwev the course send you a aemail to verfy tat you are correct.
-that is the only attacment after filling in the form.
+This course has been developed from a market need analysis. It has been developed from noticeable educational gaps. These gaps need filling, and if you want your voice to be heard, we want to hear from you.
 
 [FORM](https://forms.gle/UaMNJYfVwHMbdxdE9)
 
 
 ## Supporting 
-If you want to suppurt this course add a merge request with you logo down here.
-Then we will send you info of the progress of the course and you will also get info of the progress of the students.
+If you want to support this course, add a merge request with your logo below. We will then send you information of the course progress. 
+During the course the student performance will also be tracked to monitoring that they all get the help they need. But this info will aslo be shared so we all can see the progress on the stdents
 
+
+## Logo Time
 
 ![https://hacking.robots.beer](logo/hrb.png "Hacking Robots and Beer")
 
