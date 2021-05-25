@@ -1,5 +1,5 @@
 # App Delivery (something)
-To build and deliver widely used software apps today, it is expected that the developer possesses a fundamental understanding of app development which will carry for the lifetime of its deployment. The developer will be able to carry out and clearly explain the app’s build, deployment and behaviour. 
+To build and deliver widely used software apps today, it is expected that the app developer possesses a fundamental understanding of app development which will carry for the lifetime of its deployment. The app developer will be able to carry out and clearly explain the app’s build, deployment and behaviour. 
 
 During the years we have learnt a lot how we best build and run apps. This include new tools to easily build and run our apps. But we also explore and implement different way to work, utilising tools and methodology such as GitOPS and Devops.
 
@@ -28,8 +28,8 @@ By giving the student ownership of their own app, they will be able to see first
 
 
 ### Docs
-To work with the app documations is a important part. It can be documations in code but also how the app work and Runbooks.
-The student are to during the course write docs abount the app and also store all there code in public git.
+To work with the app delivery,  documations is a important part. It can be documations in code but also how the app work and diffent runbooks.
+The student are to during the course write docs about the app and also store all there code in public git.
 This will later be a good ref for allying for work.
 
 ### Tickets 
@@ -48,7 +48,7 @@ Say you as a student really get into coding. Then you will not only have a solid
 
 
 ### Courses from professional
-To keep the level of the courses we will get courses from online services. We we then combine this courses into a learning path and that path will be the path for this course.
+To keep the level of the courses we will get courses from online services. We then combine this courses into a learning path and that path will be the path for this course.
 
 We will use course from:
 - [DevSecOps Academy](https://www.devsecops-academy.com/)
