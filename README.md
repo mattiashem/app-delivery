@@ -28,9 +28,9 @@ By giving the student ownership of their own app, they will be able to see first
 
 
 ### Docs
-To work with the app delivery,  documations is a important part. It can be documations in code but also how the app work and diffent runbooks.
+To work with the app delivery, documentation is an important part. It can be documentation in code but also how the app works and diffent runbooks.
 The student are to during the course write docs about the app and also store all there code in public git.
-This will later be a good ref for allying for work.
+This will later be a good ref for ?allying? for work. <- förstår inte denna mening.
 
 ### Tickets 
 All companies today work with ticketing systems. Some have external companies that flag and work with the ticket, others have internal systems. It is thus fundamental that students are able to work comfortably in a ticketing system.
@@ -39,24 +39,23 @@ The student will be assigned a ticket with a problem, the student is then tasked
 
 
 ### Cloud Service
-Cloud service is something everyone in  app delivery need to know. Most of the steps in the cpurse will be run against clous service and the stdents will have good knowledge in to work with clous providers after to course.
+Cloud service is something everyone in  app delivery need to know. Most of the steps in the course will be run against cloud services and the students will have good knowledge to work with cloud providers after to course.
 
-### We all run in diffrent speed
-We all run in diffrent speed and here we want to setup the courses to match the speed of the students. The course will have a solid and easy beat that all students are able to keep up.
-But if you as students quckly passes a course we will have more courses for you to att so that you can deep dive on diffrent topics.
+### We all run at different speeds
+We all run at different speeds and here we want to setup the courses to match the speed of the students. The course will have a solid and easy pace that all students are able to keep up.
+But if you as students quckly pass a course we will have more courses for you to att so that you can deep dive on different topics.
 Say you as a student really get into coding. Then you will not only have a solid App Delivery course but you my also have passed diffrent coding courses as well.
 
-
 ### Courses from professional
-To keep the level of the courses we will get courses from online services. We then combine this courses into a learning path and that path will be the path for this course.
+To keep the level of the courses high we will get courses from online services. We then combine this courses into a learning path and that path will be the path for this course.
 
 We will use course from:
 - [DevSecOps Academy](https://www.devsecops-academy.com/)
 - [Cloud Academy](https://cloudacademy.com/)
 
 ### Certification
-Certification are a important evidence that you proven to have a certian skill.
-During this course the studentd will be preperd to take cerification in
+Certification are a important evidence that you proven to have a certain skill.
+During this course the student will be preperd to take cerification in
 
 - Docker
 - Kubernetes
@@ -77,13 +76,13 @@ In the Run stage, students work on our applications to make them run and scale.
 
 
 ### Build
-It’s all starts with a code. Its here we lay a good foundations for our app and it also here it all begins. Setting up your local environment correct will later save you time and a lot of work.
+It all starts with code. It's here we lay a good foundation for our app and it's also where it all begins. Setting up your local environment correct will later save you time and a lot of work.
 
 Some of the things we are to work with:
 - Git
 - Docker and Docker Compose
 - Programing (Python ore NodeJS)
-- Webb Basic (How the webb work CND/ LB and HTTP request)
+- Web Basic (How the webb work CND/ LB and HTTP request)
 - Databases and service (Mysql, MongoDB , Redis and more)
 - Cloud service (Basic setup)
 
@@ -92,36 +91,33 @@ Testing your app correctly underpins the structure of a CI/CD (Continuous Integr
 
 Some of the tools students will utilise:
 - Build servers (Jenkins, Tekton, etc.)
-- Automates test 
+- Automated tests 
 - Vulnerability scanning
 - Kubernetes and helm 
 
 
 ### Run
-To design and deploy an app is the fun part, to run it to scale over a prolonged time scale is where an app developer shows their worth. How often have you deleted an app because it runs badly or never updates? 
+To design and deploy an app is the fun part, to run it to scale over a prolonged time period is where an app developer shows their worth. How often have you deleted an app because it runs badly or never updates? 
 
 In this step the student will learn how to setup environments that can be scaled, and are secure to both user and developer. In App Delivery (something), students will learn how to monitor and troubleshot their app.
 
 Some of the tools students will utilise:
 - Terraform/Pullumi
-- Imutabel Infrastructure
-- Observity (Logs, Metrics, Tracing)
+- Imutable Infrastructure
+- Observability (Logs, Metrics, Tracing)
 - Load test
 - Alerts
 - Runbooks
 
 
-
-
-
 ## Background
-During 2021 and after tuturing many students from different educations (linux,devops) I come to see that we miss some knowledge in the students that come from [yrkesutbildning](yrkesutbildning.md) courses.
+During 2021 and after tuturing many students from different educations (linux, devops) I've come to see that we miss some knowledge in the students that come from [yrkesutbildning](yrkesutbildning.md) courses.
 
-One key part that the students from this course where missing was to have there own engine. To get a problem and have the knowledge how to solve the problem and to also learn hos to solve problems.
+One key part that the students from this course where missing was to have their own engine. To get a problem and have the knowledge how to solve the problem and to also learn hos to solve problems.
 
-This education is what we think is needed to traning students to better start working in the app delivery space.
+This education is what we think is needed to train students to better start working in the app delivery space.
 
-We that worked with this course are [team](team.md) and during 2022 we toghterwith the Swedish school [tuc](tuc.md) hope to run this educations.
+We that worked with this course are [team](team.md) and during 2022 we toghter with the Swedish school [tuc](tuc.md) hope to run this course.
 
 
 ## Call for HELP !
@@ -129,7 +125,7 @@ We that worked with this course are [team](team.md) and during 2022 we toghterwi
 To make this course we need your help.
 
 ## The plan
-This is our education plan right now but we are well aware that there may be better eductaions plans.
+This is our education plan right now but we are well aware that there may be better education plans.
 
 ### Students
 Students and app developers; we want to hear from you. We believe we have developed a course which would lead the way in creating world-class beating apps. Developers will not only have the tools to create apps that work, but have the tools to critically evaluate their usage in the real-world.
@@ -157,7 +153,7 @@ During the course the student performance will also be tracked to monitoring tha
 
 
 
-## Qutes
+## Quotes
 
 
 
